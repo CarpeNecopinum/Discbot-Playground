@@ -5,6 +5,7 @@
   "main": "playground",
   "dependencies": {
     "discord.io": "^1.6.3",
+    "request": "^2.67.0",
     "routes": "^2.1.0"
   }
 }

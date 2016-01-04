@@ -58,7 +58,10 @@ class Bot {
         this.discord.setPresence({game: game});
     }
 
-
+    sendMessage(to, text)
+    {
+        this.discord.sendMessage({to: to, message: text});
+    }
 }
 
 module.exports = Bot;
