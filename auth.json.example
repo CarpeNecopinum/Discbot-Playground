@@ -1,0 +1,5 @@
+/* copy to auth.json and fill in with your own data */
+{
+    "email": "<TheBotsDiscordEmail>",
+    "password": "<TheBotsPassword>"
+}

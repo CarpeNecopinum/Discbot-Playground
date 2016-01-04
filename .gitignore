@@ -1,0 +1,7 @@
+# contains login+password
+auth.json
+
+# contains discord token (encrypted by login+password)
+tenc
+ 
+node_modules/*

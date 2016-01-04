@@ -1,0 +1,10 @@
+{
+  "name": "discbot playground",
+  "version": "0.0.1",
+  "description": "A bunch of experiments and screwing around with the discord api.",
+  "main": "playground",
+  "dependencies": {
+    "discord.io": "^1.6.3",
+    "routes": "^2.1.0"
+  }
+}
